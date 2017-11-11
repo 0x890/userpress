@@ -2,7 +2,7 @@
 
 #wordpress username detector v.1
 #author : Noureddine Bellounis
-#Feel free to user / reuse
+#Feel free to use / reuse
 #some strings are encoded (no skiddies)
 
 $site = $argv[1];
